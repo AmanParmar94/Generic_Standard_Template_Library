@@ -1,10 +1,12 @@
 # Generic_Standard_Template_Library
 
-Project Name- Generic Standard Template Library
+# Project Name- 
+Generic Standard Template Library
 
-Technology Used- C++ Programming
+# Technology Used- 
+C++ Programming
 
-Discription- 
+# Discription- 
 
 *This project contains the generic implementations of all data structures(linear & non-linear)
 
